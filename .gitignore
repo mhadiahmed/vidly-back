@@ -1,0 +1,8 @@
+.env
+node_modules/
+mongo-demo/
+async-demo/
+.vscode/
+middle/
+test-demo/
+log/
